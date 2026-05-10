@@ -9,3 +9,4 @@ The notes include:
 - reboot and scheduling behavior
 - access control and least privilege concepts
 - troubleshooting observations
+- Audit and Compliance Reporting
